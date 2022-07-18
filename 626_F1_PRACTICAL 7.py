@@ -11,7 +11,7 @@ Original file is located at
 #ROLL NO. : 626
 #DATE : 10/06/2021.
 
-PROGRAM 7.1 : 1. Solve the Fibonacci sequence using recursive function in Python.
+#PROGRAM 7.1 : 1. Solve the Fibonacci sequence using recursive function in Python.
 
 #INPUT
 def recursion_fib(n):                                      #defining a function
@@ -27,9 +27,9 @@ for i in range(0, terms):                                  #using for loop, trav
         
 
 #OUTPUT
-ENTER THE NO. OF TERMS YOU WANT : 15
-Fibonacci sequence:
-0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 
+#ENTER THE NO. OF TERMS YOU WANT : 15
+#Fibonacci sequence:
+#0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 
 
 
 
@@ -56,8 +56,8 @@ else:                                           #else, using loop, setting the d
 
 
 #OUTPUT 
-ENTER A POSITIVE INTEGER : 8
-8 * 7 * 6 * 5 * 4 * 3 * 2 * 1 = 40320
+#ENTER A POSITIVE INTEGER : 8
+#8 * 7 * 6 * 5 * 4 * 3 * 2 * 1 = 40320
 
 
 
@@ -78,8 +78,8 @@ recursion_nat(n) #function call.
 
 
 #OUTPUT
-THE FIRST 50 NATURAL NUMBERS ARE : 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
+#THE FIRST 50 NATURAL NUMBERS ARE : 
+#1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
 
 
 
@@ -97,8 +97,8 @@ print("The sum =",recursion_sum(num))
 
 
 #OUTPUT : 
-ENTER THE VALUE OF n = 626
-The sum = 196251
+#ENTER THE VALUE OF n = 626
+#The sum = 196251
 
 
 
@@ -123,14 +123,14 @@ recursion_list(list)                         #function calling.
 
 
 #OUTPUT
-ENTER THE NUMBER OF ELEMENTS : 5
-ENTER ELEMENT = hello
-ENTER ELEMENT = mitaoe
-ENTER ELEMENT = 626
-ENTER ELEMENT = F1
-ENTER ELEMENT = bye
-THE ELEMENTS OF THE LIST IS : 
-hello mitaoe 626 F1 bye 
+#ENTER THE NUMBER OF ELEMENTS : 5
+#ENTER ELEMENT = hello
+#ENTER ELEMENT = mitaoe
+#ENTER ELEMENT = 626
+#ENTER ELEMENT = F1
+#ENTER ELEMENT = bye
+#THE ELEMENTS OF THE LIST IS : 
+#hello mitaoe 626 F1 bye 
 
 
 
@@ -158,11 +158,11 @@ print ("THE GREATEST ELEMENT IN THE BATCH = ",recursion_big(batch,items-1,big)) 
 
 
 #OUTPUT
-Enter the number of elements in the list: 3
-Enter the number elements:  34354
-Enter the number elements:  43
-Enter the number elements:  3
-THE GREATEST ELEMENT IN THE BATCH =  34354
+#Enter the number of elements in the list: 3
+#Enter the number elements:  34354
+#Enter the number elements:  43
+#Enter the number elements:  3
+#THE GREATEST ELEMENT IN THE BATCH =  34354
 
 
 
@@ -188,5 +188,5 @@ print ("THE FIRST CAPITAL IS ",recursion_caps(batch,len(str)-1,letter)) #functio
 
 
 #OUTPUT
-ENTER A STRING : nehaal pandeY
-THE FIRST CAPITAL IS Y
+#ENTER A STRING : nehaal pandeY
+#THE FIRST CAPITAL IS Y
