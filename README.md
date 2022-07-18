@@ -28,4 +28,42 @@ If n is three digit print cube root of it.
 #Is student allowed to sit in exam or not.
 
 
-#PRACTICAL 2.4 : Check whether the triangle is equilateral, scalene, or isosceles
+#PRACTICAL 2.4 : Check whether the triangle is equilateral, scalene, or isosceles.
+
+#PRACTICAL 3: To accept students five courses marks and compute his/her result. Student is passing if he/she scores marks equal to and above 40 in each course. If student scores aggregate greater than 75%, then the grade is distinction. If aggregate is 60>= and <75 then the grade is first division. If aggregate is 50>= and <60, then the grade is second division. If aggregate is 40>= and <50, then the grade is third division.
+
+#PRACTICAL 4: Write a program in Python to enter two unequal nos. if first no. is greater than display square of the smaller no. and cube of the greater no. otherwise vice-versa. If no. are equal display the message both no. are equal find square, square root and cube root of a number.
+
+#PRACTICAL 5: To check whether input number is Armstrong number or not. An Armstrong number is an integer with three digits such that the sum of the cubes of its digits is equal to the number itself. Ex. 371.
+
+#PRACTICAL 6: Write a Python program to print different patterns.
+
+#PRACTICAL 7.1. Solve the Fibonacci sequence using recursive function in Python.
+
+#PRACTICAL 7.2. WAP to calculate factorial of an input number. Sample O/P:- 5*4*3*2*1=120
+
+#PRACTICAL 7.3. WAP to print first 50 natural numbers using recursion.
+
+#PRACTICAL 7.4. WAP to calculate the sum of numbers from 1 to n using recursion.
+
+#PRACTICAL 7.5. WAP to print the list elements using recursion.
+
+#PRACTICAL 7.6. WAP to get the largest element of a list using recursion.
+
+#PRACTICAL 7.7. WAP to find the first capital letter in a string using recursion.
+
+#PRACTICAL 8: Write a Python program to perform following string operations. a) String concatenation b) String Reverse c) String compare d) String length e) Palindrome f) Case change.
+
+#PRACTICAL 9: Write a Python program to create small application based on Linear Search algorithm.
+
+#PRACTICAL 10: Choose cricket team of eleven players find the captain of the team (consider tallest person as a captain) using dictionary.
+
+#PRACTICAL 11: Write a Python program to perform addition and multiplication of 2 matrices.
+
+#PRACTICAL 12.1. Write Python class for bank customer with withdraw and deposit operations (use inheritance (Introduce class, object concepts).
+
+#PRACTICAL 12.2. Using concepts of polymorphism write Python application program.
+
+#PRACTICAL 12.3: Write a NumPy program for Plotting and analyzing data.
+
+
